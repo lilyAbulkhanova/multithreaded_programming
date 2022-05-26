@@ -1,0 +1,13 @@
+D:\repos\project\lab_work5\lab_work5\bin\Debug\lab_work5.exe.config
+D:\repos\project\lab_work5\lab_work5\bin\Debug\lab_work5.exe
+D:\repos\project\lab_work5\lab_work5\bin\Debug\lab_work5.pdb
+D:\repos\project\lab_work5\lab_work5\obj\Debug\lab_work5.csproj.AssemblyReference.cache
+D:\repos\project\lab_work5\lab_work5\obj\Debug\lab_work5.csproj.SuggestedBindingRedirects.cache
+D:\repos\project\lab_work5\lab_work5\obj\Debug\lab_work5.Form1.resources
+D:\repos\project\lab_work5\lab_work5\obj\Debug\lab_work5.Properties.Resources.resources
+D:\repos\project\lab_work5\lab_work5\obj\Debug\lab_work5.csproj.GenerateResource.cache
+D:\repos\project\lab_work5\lab_work5\obj\Debug\lab_work5.csproj.CoreCompileInputs.cache
+D:\repos\project\lab_work5\lab_work5\obj\Debug\lab_work5.exe
+D:\repos\project\lab_work5\lab_work5\obj\Debug\lab_work5.pdb
+D:\repos\project\lab_work5\lab_work5\bin\Debug\Guna.UI2.dll
+D:\repos\project\lab_work5\lab_work5\obj\Debug\lab_work5.csproj.CopyComplete
